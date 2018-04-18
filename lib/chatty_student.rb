@@ -1,5 +1,5 @@
 class ChattyStudent < Student
 
   def hello
-    puts 
+    puts  
 end
