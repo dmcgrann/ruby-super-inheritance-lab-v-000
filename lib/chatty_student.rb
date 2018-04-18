@@ -9,6 +9,6 @@ class ChattyStudent < Student
    super.10.times do |x|
      x 
    end
- end
+  end
  
 end
